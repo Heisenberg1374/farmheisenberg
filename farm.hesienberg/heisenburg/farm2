@@ -1,9 +1,0 @@
-wait(8)
-game.ReplicatedStorage.Package.Events.Start:InvokeServer()
-game.ReplicatedStorage.Package.Events.Start:InvokeServer()
-game.ReplicatedStorage.Package.Events.Start:InvokeServer()
-game.Players.LocalPlayer.Character.Humanoid.Health = 0
-wait(7)
-local CoreGui = game:GetService("StarterGui")
-
-CoreGui:SetCore("SendNotification",{Title = "ERROR",Text= "Error",Duration=10})
